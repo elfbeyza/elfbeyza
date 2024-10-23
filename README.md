@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Elif Beyza
-- 👀 I’m interested in front-end, back-end...
+- 👀 I’m interested in front-end, SQL
 - 🌱 I’m currently learning JavaScript, C#, Sql and React 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me @eliferald (instagram account)
